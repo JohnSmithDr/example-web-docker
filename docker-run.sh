@@ -1,0 +1,1 @@
+docker run -d --name web-app -p 3000:3000 example-web-docker
